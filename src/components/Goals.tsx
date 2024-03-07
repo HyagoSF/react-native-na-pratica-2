@@ -3,6 +3,7 @@ import MaterialIcons from "@expo/vector-icons/MaterialIcons"
 
 import { Goal } from "@/components/Goal"
 import { colors } from "@/styles/colors"
+import React from "react"
 
 export type GoalsProps = {
   id: string

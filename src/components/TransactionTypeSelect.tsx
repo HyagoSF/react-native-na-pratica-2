@@ -2,6 +2,7 @@ import { View } from "react-native"
 
 import { colors } from "@/styles/colors"
 import { TransactionType } from "@/components/TransactionType"
+import React from "react"
 
 type TransactionType = "up" | "down"
 

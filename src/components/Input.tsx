@@ -1,6 +1,7 @@
 import { TextInput, TextInputProps } from "react-native"
 
 import { colors } from "@/styles/colors"
+import React from "react"
 
 export function Input({ ...rest }: TextInputProps) {
   return (

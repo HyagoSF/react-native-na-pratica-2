@@ -14,6 +14,7 @@ import {
 } from "@expo-google-fonts/open-sans"
 
 import { colors } from "@/styles/colors"
+import React from "react"
 
 SplashScreen.preventAutoHideAsync()
 

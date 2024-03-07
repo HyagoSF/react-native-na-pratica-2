@@ -2,6 +2,7 @@ import { Pressable, PressableProps, Text } from "react-native"
 
 import { currencyFormat } from "@/utils/currencyFormat"
 import { colors } from "@/styles/colors"
+import React from "react"
 
 export type TransactionProps = {
   date: string

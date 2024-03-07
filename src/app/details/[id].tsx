@@ -20,6 +20,7 @@ import { TransactionTypeSelect } from "@/components/TransactionTypeSelect"
 // UTILS
 import { mocks } from "@/utils/mocks"
 import { currencyFormat } from "@/utils/currencyFormat"
+import React from "react"
 
 type Details = {
   name: string

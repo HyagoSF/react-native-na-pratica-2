@@ -1,5 +1,6 @@
 import { Text, ColorValue, Pressable, PressableProps } from "react-native"
 import MaterialIcons from "@expo/vector-icons/MaterialIcons"
+import React from "react"
 
 type TransactionTypeProps = {
   title: string
